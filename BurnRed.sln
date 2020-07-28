@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BurnRed", "BurnRed.csproj", "{2A1EF895-C28D-46B9-A1D2-55A6C67B4086}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D5039E9C-3C92-48A7-8380-BE42937CCFB7}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A1EF895-C28D-46B9-A1D2-55A6C67B4086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A1EF895-C28D-46B9-A1D2-55A6C67B4086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A1EF895-C28D-46B9-A1D2-55A6C67B4086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A1EF895-C28D-46B9-A1D2-55A6C67B4086}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5393CB5D-5551-4902-92EA-410E56F33CCD}
+	EndGlobalSection
+EndGlobal
